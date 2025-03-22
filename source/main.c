@@ -6,7 +6,7 @@
 
 #include "main.h"
 
-const char *pid_file = "/home/onedog/c/deamon/pid.txt";
+const char *pid_file = "";
 
 
 int check_deamon()
