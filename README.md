@@ -4,12 +4,8 @@
 sudo pacman -Sy cmake make
 ```
 
-## Install
+## Downlaod
 ```code
 git clone git@github.com:bro6514123/basic_deamon.git
-cd basic_deamon
-mkdir build
-cd build
-cmake ..
-make
 ```
+And create pid_file along the path from main.c(pid_file)
